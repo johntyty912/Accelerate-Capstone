@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pelagic-rig-201612",
+  "private_key_id": "8a1ada453e2b06d520d3c574e9e55c77ad4e0ff3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDEtu6y7+oRYVaH\nCQHB2jLqffjMjmzxq1t5IUuCuymaE4GB8XKZN5BugMt/8IfGSqAljKzFSb34FFcc\nc/4Yuy0gvKUfBPMqbaZwccIgN3kTx3TsFilZeEQMRip9Des6hGB2s8WguI9XOIxX\n+kT13ajvzkkrO6oH4LJbSP02WCgjqWEhBmJF3fQGYcZLcT6DT2majX4zQkzgsR8+\nO79v5x+mvtAz/qz/YfxBXF5IRjAdC5Yqrafv0/A5R3gLjYzuh4MmxAGkC0llkvZi\nbGdXfHkcXHL2lwSzKBqkqR2GNVCuc/FhyQnlHTqD187v63xJ2jmmgt5T55uxUZ9Y\nUwFored3AgMBAAECggEADaM/DjG60QSmCouRzx4w/HfKSWgwXlrKZy3rPb97BV8H\n0fnqv3uOLFMKiK6kwxcGXkQP8EeJ/4ptdaAHBDDp0oSxj+J4dz8N1GrWkgQ2hSwF\nS57HtBe15AHzTSMrZS2rQF97OobBDUNy22CS6la5MRLkmLY0tgIaa2C2iU94TOyA\ndxynC8Zfk4bYXCHrwhVcyhs3y91jpx08Fg91aFVh/DzTvmzZLKN2b+QO+5gu6p71\nFYIqmNL4EqWxGAq1MI5uCz9+Ww8BFY4qCPXnVC5DuNe+iik3sjDD+82+6gEGvYMJ\n8Eg09ON7WA72Q8UoyjBXMB9pMvTDUUQg/RpPXFdKeQKBgQD3dzwiZ+yUBCqrwoiE\njRtXe4mmAuyQ/i3bmfTDZzf2FhPc9PTnydGW1ZD7NRKwvhU3oPpqXrUZB6QKycKJ\nIMG1oOzOiwOW6mFjLl9WTYS9WjAlHcB7OC5qIeJskld0VrVaVQZ5ksH7hY8wh3VE\nTiJBMoB4c8KZ+DK2YgxV68cNuQKBgQDLf6NOhUL4SNjf00u6uN2sj/waRqMCUJ2f\nPaTMqP7QrODt0q7ac6XNf0L8GOkmlV6t2CU4C7GRGFpkHbc5mP/jWJ9M31A0REzl\nmYfL0Ld6cxFSY1iH/g/2vXIbNCik127Wa0TuTGpjujsT9Qt/1KosUfGW2J/vNmCC\nLVXw86q2rwKBgBViITkb385+ea1z1tYVV1p8200UDZsNy6qhKAxGfAhwqfC63fq1\nbr3o4GlEkcPh+PVgnKLaYi2yglNIUd4FjZeDO1MxofLFd/rZA/XyJtkx1N0wL/S1\nyxTyrp0RHCt6Xptao3+X1dlFFjVsTw7C7aTSl1VRM2yYjNFDsasu/3lJAoGAFjkh\nJ3EMKDskXAUiLwkDRFYRDPmL0bPmEr7ToXoPIdDPW4l3iOm6QJ/WO9uokosbZNbG\n8cDtKlBDhs1r9gFMaJKECwwUITEYSLakitCHSPsJ+DpbL7bCHYsAzBG9IotYUlgy\nleeIcs2iqAJJuDMMRnzIalXL2X7RuUWkLgUeLocCgYEAyGEq4Kte/edGuAmYwewO\nUMueOH8USC0O/u88jvJUT9BiIgasqn2Z5f882AvAEp6byH4tH1nD3zbibbpVtZZm\n2jd1z/MV7nzidvhyrEem37hzpXkY2vkw6WhVRHKf8ySdtjRxInz9Ppf/MA7MZrdP\nESD6PU2q9u37MiJz3qvqiB0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chinnese-to-eng@pelagic-rig-201612.iam.gserviceaccount.com",
+  "client_id": "115138390573498543957",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chinnese-to-eng%40pelagic-rig-201612.iam.gserviceaccount.com"
+}
